@@ -8,11 +8,14 @@
 | --- | --- | --- |
 | How to Think Like a Computer Scientist-C Version | Thomas Scheﬄer | 英文 |
 | C Notes For Professionals |  | 英文 |
+|  | |  |
 
-## C 
+## C++ 
 | 书名 | 作者 | 版本 |
 | --- | --- | --- |
 | C Plus Plus Notes For Professionals |  | 英文 |
+|  | |  |
+|  | |  |
 
 ## git
 | 书名 | 作者 | 版本 |
@@ -43,3 +46,11 @@
 | Computer Networking A Top Down Approach | James F. Kurose & Keith W. Ross | 第七版（英文） |
 | Linux Network Administrator Guide |  Olaf Kirch & Terry Dawson | 第二版（英文） |
 | Understanding Linux Network Internals | Christian Benvenuti | 第二版（英文） |
+
+## 数据结构和算法
+
+| 书名                                                   | 作者            | 版本 |
+| ------------------------------------------------------ | --------------- | ---- |
+| Advanced Topics in C, Core Concepts in Data Structures | Noel Kalicharan | 英文 |
+|                                                        |                 |      |
+|                                                        |                 |      |
